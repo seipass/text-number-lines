@@ -1,0 +1,8 @@
+[project]
+name = "text-number-lines"
+version = "0.1.0"
+description = "Prefix text lines with 1-based numbers"
+requires-python = ">=3.9"
+license = "MIT"
+
+[tool.unittest]
